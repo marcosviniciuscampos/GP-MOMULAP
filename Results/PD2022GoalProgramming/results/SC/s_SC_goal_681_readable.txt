@@ -1,0 +1,1564 @@
+Objective functions
+600288
+5204314.126000003
+0.024462413251069383
+
+Number of mammography units hosted by Abdon Batista: 0 mamografos.
+
+Number of mammography units hosted by Abelardo Luz: 1 mamografos.
+
+Cities covered by Abelardo Luz equipment:
+
+Abelardo Luz: 1292.0/1292
+Bom Jesus: 219.0/223
+Ipuaçu: 1.0/481
+Ouro Verde: 191.0/191
+Xanxerê: 1.0/4105
+
+Number of mammography units hosted by Agrolândia: 1 mamografos.
+
+Cities covered by Agrolândia equipment:
+
+Agrolândia: 826.0/826
+Atalanta: 288.0/288
+
+Number of mammography units hosted by Agronômica: 0 mamografos.
+
+Number of mammography units hosted by Água Doce: 1 mamografos.
+
+Cities covered by Água Doce equipment:
+
+Água Doce: 539.0/539
+Catanduvas: 20.0/813
+Jaborá: 387.0/387
+Macieira: 148.0/148
+Treze Tílias: 599.0/599
+
+Number of mammography units hosted by Águas de Chapecó: 0 mamografos.
+
+Number of mammography units hosted by Águas Frias: 0 mamografos.
+
+Number of mammography units hosted by Águas Mornas: 0 mamografos.
+
+Number of mammography units hosted by Alfredo Wagner: 1 mamografos.
+
+Cities covered by Alfredo Wagner equipment:
+
+Alfredo Wagner: 878.0/878
+Bom Retiro: 646.0/658
+Leoberto Leal: 290.0/290
+
+Number of mammography units hosted by Alto Bela Vista: 0 mamografos.
+
+Number of mammography units hosted by Anchieta: 0 mamografos.
+
+Number of mammography units hosted by Angelina: 1 mamografos.
+
+Cities covered by Angelina equipment:
+
+Angelina: 484.0/484
+Major Gercino: 274.0/279
+São Pedro de Alcântara: 2.0/419
+
+Number of mammography units hosted by Anita Garibaldi: 1 mamografos.
+
+Cities covered by Anita Garibaldi equipment:
+
+Anita Garibaldi: 731.0/731
+Campo Belo do Sul: 618.0/618
+Cerro Negro: 269.0/274
+Vargem: 218.0/222
+
+Number of mammography units hosted by Anitápolis: 0 mamografos.
+
+Number of mammography units hosted by Antônio Carlos: 0 mamografos.
+
+Number of mammography units hosted by Apiúna: 0 mamografos.
+
+Number of mammography units hosted by Arabutã: 0 mamografos.
+
+Number of mammography units hosted by Araquari: 0 mamografos.
+
+Number of mammography units hosted by Araranguá: 1 mamografos.
+
+Cities covered by Araranguá equipment:
+
+Araranguá: 6023.0/6023
+
+Number of mammography units hosted by Armazém: 1 mamografos.
+
+Cities covered by Armazém equipment:
+
+Armazém: 729.0/729
+Laguna: 3800.0/4143
+Orleans: 60.0/1984
+Pedras Grandes: 410.0/416
+
+Number of mammography units hosted by Arroio Trinta: 1 mamografos.
+
+Cities covered by Arroio Trinta equipment:
+
+Arroio Trinta: 346.0/346
+Pinheiro Preto: 269.0/269
+Salto Veloso: 362.0/366
+
+Number of mammography units hosted by Arvoredo: 0 mamografos.
+
+Number of mammography units hosted by Ascurra: 0 mamografos.
+
+Number of mammography units hosted by Atalanta: 0 mamografos.
+
+Number of mammography units hosted by Aurora: 0 mamografos.
+
+Number of mammography units hosted by Balneário Arroio do Silva: 0 mamografos.
+
+Number of mammography units hosted by Balneário Camboriú: 2 mamografos.
+
+Cities covered by Balneário Camboriú equipment:
+
+Balneário Camboriú: 12598.0/12598
+Camboriú: 191.99999999999997/6950
+Ilhota: 726.0/1246
+
+Number of mammography units hosted by Balneário Barra do Sul: 0 mamografos.
+
+Number of mammography units hosted by Balneário Gaivota: 0 mamografos.
+
+Number of mammography units hosted by Bandeirante: 0 mamografos.
+
+Number of mammography units hosted by Barra Bonita: 0 mamografos.
+
+Number of mammography units hosted by Barra Velha: 0 mamografos.
+
+Number of mammography units hosted by Bela Vista do Toldo: 0 mamografos.
+
+Number of mammography units hosted by Belmonte: 0 mamografos.
+
+Number of mammography units hosted by Benedito Novo: 0 mamografos.
+
+Number of mammography units hosted by Biguaçu: 1 mamografos.
+
+Cities covered by Biguaçu equipment:
+
+Biguaçu: 5966.0/5966
+Governador Celso Ramos: 792.0/1533
+
+Number of mammography units hosted by Blumenau: 4 mamografos.
+
+Cities covered by Blumenau equipment:
+
+Blumenau: 27032.0/29815
+
+Number of mammography units hosted by Bocaina do Sul: 0 mamografos.
+
+Number of mammography units hosted by Bombinhas: 0 mamografos.
+
+Number of mammography units hosted by Bom Jardim da Serra: 0 mamografos.
+
+Number of mammography units hosted by Bom Jesus: 0 mamografos.
+
+Number of mammography units hosted by Bom Jesus do Oeste: 0 mamografos.
+
+Number of mammography units hosted by Bom Retiro: 0 mamografos.
+
+Number of mammography units hosted by Botuverá: 0 mamografos.
+
+Number of mammography units hosted by Braço do Norte: 1 mamografos.
+
+Cities covered by Braço do Norte equipment:
+
+Anitápolis: 323.0/328
+Braço do Norte: 2557.0/2557
+Rio Fortuna: 409.0/416
+Santa Rosa de Lima: 181.0/188
+Treviso: 348.0/348
+
+Number of mammography units hosted by Braço do Trombudo: 0 mamografos.
+
+Number of mammography units hosted by Brunópolis: 0 mamografos.
+
+Number of mammography units hosted by Brusque: 1 mamografos.
+
+Cities covered by Brusque equipment:
+
+Brusque: 6758.0/10683
+
+Number of mammography units hosted by Caçador: 1 mamografos.
+
+Cities covered by Caçador equipment:
+
+Caçador: 5641.0/5641
+Rio das Antas: 1.0/502
+Timbó Grande: 457.0/466
+
+Number of mammography units hosted by Caibi: 0 mamografos.
+
+Number of mammography units hosted by Calmon: 0 mamografos.
+
+Number of mammography units hosted by Camboriú: 1 mamografos.
+
+Cities covered by Camboriú equipment:
+
+Camboriú: 6758.0/6950
+
+Number of mammography units hosted by Capão Alto: 0 mamografos.
+
+Number of mammography units hosted by Campo Alegre: 1 mamografos.
+
+Cities covered by Campo Alegre equipment:
+
+Campo Alegre: 1046.0/1046
+Corupá: 1151.9999999999998/1217
+Rio Negrinho: 2384.0/3231
+Schroeder: 1430.0/1430
+
+Number of mammography units hosted by Campo Belo do Sul: 0 mamografos.
+
+Number of mammography units hosted by Campo Erê: 0 mamografos.
+
+Number of mammography units hosted by Campos Novos: 1 mamografos.
+
+Cities covered by Campos Novos equipment:
+
+Abdon Batista: 245.0/247
+Campos Novos: 2928.0/2928
+Celso Ramos: 250.0/255
+Vargem: 1.0/222
+
+Number of mammography units hosted by Canelinha: 0 mamografos.
+
+Number of mammography units hosted by Canoinhas: 1 mamografos.
+
+Cities covered by Canoinhas equipment:
+
+Bela Vista do Toldo: 461.0/461
+Canoinhas: 4500.0/4500
+
+Number of mammography units hosted by Capinzal: 1 mamografos.
+
+Cities covered by Capinzal equipment:
+
+Capinzal: 1795.0/1795
+
+Number of mammography units hosted by Capivari de Baixo: 0 mamografos.
+
+Number of mammography units hosted by Catanduvas: 0 mamografos.
+
+Number of mammography units hosted by Caxambu do Sul: 0 mamografos.
+
+Number of mammography units hosted by Celso Ramos: 0 mamografos.
+
+Number of mammography units hosted by Cerro Negro: 0 mamografos.
+
+Number of mammography units hosted by Chapadão do Lageado: 0 mamografos.
+
+Number of mammography units hosted by Chapecó: 2 mamografos.
+
+Cities covered by Chapecó equipment:
+
+Chapecó: 13516.0/17590
+
+Number of mammography units hosted by Cocal do Sul: 0 mamografos.
+
+Number of mammography units hosted by Concórdia: 1 mamografos.
+
+Cities covered by Concórdia equipment:
+
+Concórdia: 6748.0/6748
+Piratuba: 10.0/497
+
+Number of mammography units hosted by Cordilheira Alta: 0 mamografos.
+
+Number of mammography units hosted by Coronel Freitas: 1 mamografos.
+
+Cities covered by Coronel Freitas equipment:
+
+Bom Jesus: 2.0/223
+Cordilheira Alta: 395.0/395
+Coronel Freitas: 911.0/911
+Entre Rios: 227.0/231
+Nova Itaberaba: 392.99999999999994/399
+Santiago do Sul: 141.99999999999997/146
+
+Number of mammography units hosted by Coronel Martins: 0 mamografos.
+
+Number of mammography units hosted by Corupá: 0 mamografos.
+
+Number of mammography units hosted by Correia Pinto: 1 mamografos.
+
+Cities covered by Correia Pinto equipment:
+
+Capão Alto: 239.00000000000003/243
+Correia Pinto: 1260.0/1260
+Lages: 5028.000000000001/13889
+Palmeira: 227.0/227
+
+Number of mammography units hosted by Criciúma: 0 mamografos.
+
+Number of mammography units hosted by Cunha Porã: 1 mamografos.
+
+Cities covered by Cunha Porã equipment:
+
+Bom Jesus do Oeste: 189.0/193
+Caibi: 542.0/573
+Cunha Porã: 1014.0/1014
+Iraceminha: 365.0/368
+Maravilha: 2161.0/2240
+Tigrinhos: 187.0/190
+
+Number of mammography units hosted by Cunhataí: 0 mamografos.
+
+Number of mammography units hosted by Curitibanos: 1 mamografos.
+
+Cities covered by Curitibanos equipment:
+
+Brunópolis: 229.0/229
+Curitibanos: 3129.0/3129
+Frei Rogério: 204.0/208
+Ponte Alta do Norte: 228.0/232
+São Cristóvão do Sul: 294.0/296
+São José do Cerrito: 802.0000000000001/815
+
+Number of mammography units hosted by Descanso: 1 mamografos.
+
+Cities covered by Descanso equipment:
+
+Bandeirante: 272.0/276
+Belmonte: 217.0/218
+Descanso: 815.0/815
+Flor do Sertão: 151.0/151
+
+Number of mammography units hosted by Dionísio Cerqueira: 1 mamografos.
+
+Cities covered by Dionísio Cerqueira equipment:
+
+Dionísio Cerqueira: 1185.0/1185
+Guarujá do Sul: 463.0/471
+
+Number of mammography units hosted by Dona Emma: 0 mamografos.
+
+Number of mammography units hosted by Doutor Pedrinho: 0 mamografos.
+
+Number of mammography units hosted by Entre Rios: 0 mamografos.
+
+Number of mammography units hosted by Ermo: 0 mamografos.
+
+Number of mammography units hosted by Erval Velho: 0 mamografos.
+
+Number of mammography units hosted by Faxinal dos Guedes: 1 mamografos.
+
+Cities covered by Faxinal dos Guedes equipment:
+
+Faxinal dos Guedes: 921.0/921
+Passos Maia: 2.0/316
+
+Number of mammography units hosted by Flor do Sertão: 0 mamografos.
+
+Number of mammography units hosted by Florianópolis: 6 mamografos.
+
+Cities covered by Florianópolis equipment:
+
+Florianópolis: 40548.0/46146
+
+Number of mammography units hosted by Formosa do Sul: 0 mamografos.
+
+Number of mammography units hosted by Forquilhinha: 3 mamografos.
+
+Cities covered by Forquilhinha equipment:
+
+Criciúma: 18129.0/18149
+Forquilhinha: 2145.0/2145
+
+Number of mammography units hosted by Fraiburgo: 1 mamografos.
+
+Cities covered by Fraiburgo equipment:
+
+Fraiburgo: 2716.0/2716
+Lebon Régis: 827.0/827
+Monte Carlo: 625.0/642
+Rio das Antas: 494.0/502
+
+Number of mammography units hosted by Frei Rogério: 0 mamografos.
+
+Number of mammography units hosted by Galvão: 0 mamografos.
+
+Number of mammography units hosted by Garopaba: 0 mamografos.
+
+Number of mammography units hosted by Garuva: 0 mamografos.
+
+Number of mammography units hosted by Gaspar: 1 mamografos.
+
+Cities covered by Gaspar equipment:
+
+Ascurra: 5.0/706
+Canelinha: 9.0/974
+Gaspar: 5742.0/5742
+
+Number of mammography units hosted by Governador Celso Ramos: 0 mamografos.
+
+Number of mammography units hosted by Grão-Pará: 0 mamografos.
+
+Number of mammography units hosted by Gravatal: 0 mamografos.
+
+Number of mammography units hosted by Guabiruba: 0 mamografos.
+
+Number of mammography units hosted by Guaraciaba: 1 mamografos.
+
+Cities covered by Guaraciaba equipment:
+
+Barra Bonita: 149.0/150
+Guaraciaba: 1005.0/1005
+São Miguel do Oeste: 3662.0/3662
+
+Number of mammography units hosted by Guaramirim: 1 mamografos.
+
+Cities covered by Guaramirim equipment:
+
+Balneário Barra do Sul: 0.9999999999999999/1601
+Guaramirim: 3168.0/3168
+
+Number of mammography units hosted by Guarujá do Sul: 0 mamografos.
+
+Number of mammography units hosted by Guatambú: 0 mamografos.
+
+Number of mammography units hosted by Herval d'Oeste: 0 mamografos.
+
+Number of mammography units hosted by Ibiam: 0 mamografos.
+
+Number of mammography units hosted by Ibicaré: 1 mamografos.
+
+Cities covered by Ibicaré equipment:
+
+Ibiam: 177.0/178
+Ibicaré: 305.0/305
+
+Number of mammography units hosted by Ibirama: 0 mamografos.
+
+Number of mammography units hosted by Içara: 0 mamografos.
+
+Number of mammography units hosted by Ilhota: 0 mamografos.
+
+Number of mammography units hosted by Imaruí: 1 mamografos.
+
+Cities covered by Imaruí equipment:
+
+Imaruí: 1166.0/1166
+Imbituba: 796.0/4683
+Rio Fortuna: 1.0/416
+
+Number of mammography units hosted by Imbituba: 0 mamografos.
+
+Number of mammography units hosted by Imbuia: 1 mamografos.
+
+Cities covered by Imbuia equipment:
+
+Imbuia: 494.0/494
+Vidal Ramos: 492.99999999999994/499
+
+Number of mammography units hosted by Indaial: 0 mamografos.
+
+Number of mammography units hosted by Iomerê: 0 mamografos.
+
+Number of mammography units hosted by Ipira: 1 mamografos.
+
+Cities covered by Ipira equipment:
+
+Alto Bela Vista: 182.0/183
+Ipira: 430.0/430
+Presidente Castello Branco: 159.0/162
+Zortéa: 280.0/286
+
+Number of mammography units hosted by Iporã do Oeste: 1 mamografos.
+
+Cities covered by Iporã do Oeste equipment:
+
+Iporã do Oeste: 834.0/834
+Paraíso: 360.0/366
+Santa Helena: 230.0/232
+
+Number of mammography units hosted by Ipuaçu: 0 mamografos.
+
+Number of mammography units hosted by Ipumirim: 1 mamografos.
+
+Cities covered by Ipumirim equipment:
+
+Arabutã: 372.0/377
+Ipumirim: 646.0/646
+Lindóia do Sul: 405.99999999999994/412
+Xavantina: 352.0/358
+
+Number of mammography units hosted by Iraceminha: 0 mamografos.
+
+Number of mammography units hosted by Irani: 1 mamografos.
+
+Cities covered by Irani equipment:
+
+Irani: 797.0/797
+Vargem Bonita: 344.0/347
+
+Number of mammography units hosted by Irati: 0 mamografos.
+
+Number of mammography units hosted by Irineópolis: 0 mamografos.
+
+Number of mammography units hosted by Itá: 0 mamografos.
+
+Number of mammography units hosted by Itaiópolis: 0 mamografos.
+
+Number of mammography units hosted by Itajaí: 0 mamografos.
+
+Number of mammography units hosted by Itapema: 2 mamografos.
+
+Cities covered by Itapema equipment:
+
+Brusque: 2692.0/10683
+Itapema: 6118.0/6118
+
+Number of mammography units hosted by Itapiranga: 0 mamografos.
+
+Number of mammography units hosted by Itapoá: 0 mamografos.
+
+Number of mammography units hosted by Ituporanga: 1 mamografos.
+
+Cities covered by Ituporanga equipment:
+
+Aurora: 541.0/541
+Ituporanga: 2038.0/2038
+
+Number of mammography units hosted by Jaborá: 0 mamografos.
+
+Number of mammography units hosted by Jacinto Machado: 1 mamografos.
+
+Cities covered by Jacinto Machado equipment:
+
+Ermo: 191.0/195
+Jacinto Machado: 922.0/922
+Passo de Torres: 997.0/1105
+Praia Grande: 691.0/691
+
+Number of mammography units hosted by Jaguaruna: 1 mamografos.
+
+Cities covered by Jaguaruna equipment:
+
+Jaguaruna: 1946.0/1946
+Laguna: 94.0/4143
+
+Number of mammography units hosted by Jaraguá do Sul: 3 mamografos.
+
+Cities covered by Jaraguá do Sul equipment:
+
+Jaraguá do Sul: 14033.0/14033
+
+Number of mammography units hosted by Jardinópolis: 0 mamografos.
+
+Number of mammography units hosted by Joaçaba: 1 mamografos.
+
+Cities covered by Joaçaba equipment:
+
+Herval d'Oeste: 1840.0/1893
+Joaçaba: 2629.0/2629
+Ouro: 650.0/650
+
+Number of mammography units hosted by Joinville: 8 mamografos.
+
+Cities covered by Joinville equipment:
+
+Garuva: 1298.0/1298
+Joinville: 48725.0/48725
+
+Number of mammography units hosted by José Boiteux: 1 mamografos.
+
+Cities covered by José Boiteux equipment:
+
+Doutor Pedrinho: 332.0/338
+José Boiteux: 403.0/403
+
+Number of mammography units hosted by Jupiá: 0 mamografos.
+
+Number of mammography units hosted by Lacerdópolis: 0 mamografos.
+
+Number of mammography units hosted by Lages: 1 mamografos.
+
+Cities covered by Lages equipment:
+
+Lages: 6758.000000000001/13889
+
+Number of mammography units hosted by Laguna: 0 mamografos.
+
+Number of mammography units hosted by Lajeado Grande: 0 mamografos.
+
+Number of mammography units hosted by Laurentino: 0 mamografos.
+
+Number of mammography units hosted by Lauro Müller: 1 mamografos.
+
+Cities covered by Lauro Müller equipment:
+
+Lauro Müller: 1234.0/1234
+
+Number of mammography units hosted by Lebon Régis: 0 mamografos.
+
+Number of mammography units hosted by Leoberto Leal: 0 mamografos.
+
+Number of mammography units hosted by Lindóia do Sul: 0 mamografos.
+
+Number of mammography units hosted by Lontras: 0 mamografos.
+
+Number of mammography units hosted by Luiz Alves: 1 mamografos.
+
+Cities covered by Luiz Alves equipment:
+
+Luiz Alves: 806.0/806
+
+Number of mammography units hosted by Luzerna: 1 mamografos.
+
+Cities covered by Luzerna equipment:
+
+Catanduvas: 764.0/813
+Erval Velho: 416.99999999999994/425
+Iomerê: 1.0/263
+Lacerdópolis: 209.00000000000003/211
+Luzerna: 545.0/545
+
+Number of mammography units hosted by Macieira: 0 mamografos.
+
+Number of mammography units hosted by Mafra: 0 mamografos.
+
+Number of mammography units hosted by Major Gercino: 0 mamografos.
+
+Number of mammography units hosted by Major Vieira: 1 mamografos.
+
+Cities covered by Major Vieira equipment:
+
+Itaiópolis: 1591.0/1601
+Major Vieira: 604.0/604
+
+Number of mammography units hosted by Maracajá: 0 mamografos.
+
+Number of mammography units hosted by Maravilha: 0 mamografos.
+
+Number of mammography units hosted by Marema: 0 mamografos.
+
+Number of mammography units hosted by Massaranduba: 1 mamografos.
+
+Cities covered by Massaranduba equipment:
+
+Massaranduba: 1396.0/1396
+
+Number of mammography units hosted by Matos Costa: 0 mamografos.
+
+Number of mammography units hosted by Meleiro: 1 mamografos.
+
+Cities covered by Meleiro equipment:
+
+Maracajá: 610.0/610
+Meleiro: 636.0/636
+
+Number of mammography units hosted by Mirim Doce: 0 mamografos.
+
+Number of mammography units hosted by Modelo: 1 mamografos.
+
+Cities covered by Modelo equipment:
+
+Irati: 191.00000000000003/193
+Modelo: 349.0/349
+Romelândia: 482.0/482
+Santa Terezinha do Progresso: 2.0/233
+Santiago do Sul: 2.0/146
+São Miguel da Boa Vista: 166.99999999999997/173
+Serra Alta: 305.0/305
+Sul Brasil: 239.00000000000003/243
+
+Number of mammography units hosted by Mondaí: 1 mamografos.
+
+Cities covered by Mondaí equipment:
+
+Caibi: 18.0/573
+Mondaí: 856.0/856
+Riqueza: 406.0/409
+Tunápolis: 423.99999999999994/430
+
+Number of mammography units hosted by Monte Carlo: 0 mamografos.
+
+Number of mammography units hosted by Monte Castelo: 0 mamografos.
+
+Number of mammography units hosted by Morro da Fumaça: 1 mamografos.
+
+Cities covered by Morro da Fumaça equipment:
+
+Balneário Arroio do Silva: 14.999999999999998/1618
+Criciúma: 20.0/18149
+Morro da Fumaça: 1446.0/1446
+Treze de Maio: 616.0/624
+Balneário Rincão: 1491.0/1500
+
+Number of mammography units hosted by Morro Grande: 0 mamografos.
+
+Number of mammography units hosted by Navegantes: 4 mamografos.
+
+Cities covered by Navegantes equipment:
+
+Guabiruba: 58.0/1867
+Itajaí: 18757.0/18873
+Navegantes: 6431.0/6431
+São João do Itaperiú: 330.0/333
+
+Number of mammography units hosted by Nova Erechim: 1 mamografos.
+
+Cities covered by Nova Erechim equipment:
+
+Bom Jesus do Oeste: 2.0/193
+Nova Erechim: 421.0/421
+Pinhalzinho: 1570.0/1606
+Saltinho: 298.0/303
+
+Number of mammography units hosted by Nova Itaberaba: 0 mamografos.
+
+Number of mammography units hosted by Nova Trento: 1 mamografos.
+
+Cities covered by Nova Trento equipment:
+
+Botuverá: 432.0/435
+Ilhota: 500.0/1246
+Nova Trento: 1189.0/1189
+
+Number of mammography units hosted by Nova Veneza: 1 mamografos.
+
+Cities covered by Nova Veneza equipment:
+
+Nova Veneza: 1219.0/1219
+Orleans: 1867.0/1984
+
+Number of mammography units hosted by Novo Horizonte: 0 mamografos.
+
+Number of mammography units hosted by Orleans: 0 mamografos.
+
+Number of mammography units hosted by Otacílio Costa: 1 mamografos.
+
+Cities covered by Otacílio Costa equipment:
+
+Otacílio Costa: 1340.0/1340
+
+Number of mammography units hosted by Ouro: 0 mamografos.
+
+Number of mammography units hosted by Ouro Verde: 0 mamografos.
+
+Number of mammography units hosted by Paial: 0 mamografos.
+
+Number of mammography units hosted by Painel: 0 mamografos.
+
+Number of mammography units hosted by Palhoça: 3 mamografos.
+
+Cities covered by Palhoça equipment:
+
+Águas Mornas: 577.0/587
+Garopaba: 2486.0/2603
+Palhoça: 16285.0/16285
+Rancho Queimado: 291.0/294
+
+Number of mammography units hosted by Palma Sola: 1 mamografos.
+
+Cities covered by Palma Sola equipment:
+
+Anchieta: 534.0/537
+Palma Sola: 611.0/611
+São Miguel da Boa Vista: 2.9999999999999996/173
+
+Number of mammography units hosted by Palmeira: 0 mamografos.
+
+Number of mammography units hosted by Palmitos: 1 mamografos.
+
+Cities covered by Palmitos equipment:
+
+Maravilha: 3.0/2240
+Palmitos: 1423.0/1423
+
+Number of mammography units hosted by Papanduva: 1 mamografos.
+
+Cities covered by Papanduva equipment:
+
+Mafra: 4233.0/4653
+Monte Castelo: 590.0/597
+Papanduva: 1496.0/1496
+
+Number of mammography units hosted by Paraíso: 0 mamografos.
+
+Number of mammography units hosted by Passo de Torres: 0 mamografos.
+
+Number of mammography units hosted by Passos Maia: 0 mamografos.
+
+Number of mammography units hosted by Paulo Lopes: 0 mamografos.
+
+Number of mammography units hosted by Pedras Grandes: 0 mamografos.
+
+Number of mammography units hosted by Penha: 1 mamografos.
+
+Cities covered by Penha equipment:
+
+Penha: 2909.0/2909
+
+Number of mammography units hosted by Peritiba: 1 mamografos.
+
+Cities covered by Peritiba equipment:
+
+Peritiba: 309.0/309
+Piratuba: 481.00000000000006/497
+
+Number of mammography units hosted by Pescaria Brava: 0 mamografos.
+
+Number of mammography units hosted by Petrolândia: 1 mamografos.
+
+Cities covered by Petrolândia equipment:
+
+Bocaina do Sul: 298.0/303
+Chapadão do Lageado: 249.0/249
+Petrolândia: 599.0/599
+
+Number of mammography units hosted by Balneário Piçarras: 1 mamografos.
+
+Cities covered by Balneário Piçarras equipment:
+
+Barra Velha: 3774.0/3797
+Balneário Piçarras: 2342.0/2342
+
+Number of mammography units hosted by Pinhalzinho: 0 mamografos.
+
+Number of mammography units hosted by Pinheiro Preto: 0 mamografos.
+
+Number of mammography units hosted by Piratuba: 0 mamografos.
+
+Number of mammography units hosted by Planalto Alegre: 0 mamografos.
+
+Number of mammography units hosted by Pomerode: 1 mamografos.
+
+Cities covered by Pomerode equipment:
+
+Blumenau: 58.0/29815
+Indaial: 3871.9999999999995/5282
+Pomerode: 2828.0/2828
+
+Number of mammography units hosted by Ponte Alta: 1 mamografos.
+
+Cities covered by Ponte Alta equipment:
+
+Lages: 404.0/13889
+Ponte Alta: 387.0/387
+
+Number of mammography units hosted by Ponte Alta do Norte: 0 mamografos.
+
+Number of mammography units hosted by Ponte Serrada: 1 mamografos.
+
+Cities covered by Ponte Serrada equipment:
+
+Passos Maia: 309.0/316
+Ponte Serrada: 848.0/848
+Vargeão: 293.0/296
+
+Number of mammography units hosted by Porto Belo: 1 mamografos.
+
+Cities covered by Porto Belo equipment:
+
+Bombinhas: 2019.0/2019
+Porto Belo: 2142.0/2142
+
+Number of mammography units hosted by Porto União: 1 mamografos.
+
+Cities covered by Porto União equipment:
+
+Calmon: 174.99999999999997/223
+Irineópolis: 778.0/778
+Matos Costa: 211.0/217
+Porto União: 2861.0/2861
+
+Number of mammography units hosted by Pouso Redondo: 1 mamografos.
+
+Cities covered by Pouso Redondo equipment:
+
+Agronômica: 0.9999999999999999/474
+Mirim Doce: 201.0/204
+Pouso Redondo: 1281.0/1281
+Rio do Oeste: 630.0/640
+
+Number of mammography units hosted by Praia Grande: 0 mamografos.
+
+Number of mammography units hosted by Presidente Castello Branco: 0 mamografos.
+
+Number of mammography units hosted by Presidente Getúlio: 1 mamografos.
+
+Cities covered by Presidente Getúlio equipment:
+
+Apiúna: 792.0/809
+Ascurra: 691.0/706
+Ibirama: 1509.0/1535
+Presidente Getúlio: 1456.0/1456
+Presidente Nereu: 209.0/213
+
+Number of mammography units hosted by Presidente Nereu: 0 mamografos.
+
+Number of mammography units hosted by Princesa: 0 mamografos.
+
+Number of mammography units hosted by Quilombo: 1 mamografos.
+
+Cities covered by Quilombo equipment:
+
+Galvão: 297.0/299
+Ipuaçu: 473.0/481
+Jardinópolis: 164.0/167
+Jupiá: 211.0/213
+Lajeado Grande: 152.0/152
+Marema: 194.0/205
+Novo Horizonte: 243.99999999999997/249
+Quilombo: 916.0/916
+São Domingos: 822.0/834
+União do Oeste: 253.0/255
+
+Number of mammography units hosted by Rancho Queimado: 0 mamografos.
+
+Number of mammography units hosted by Rio das Antas: 0 mamografos.
+
+Number of mammography units hosted by Rio do Campo: 1 mamografos.
+
+Cities covered by Rio do Campo equipment:
+
+Rio do Campo: 537.0/537
+Salete: 620.0/628
+
+Number of mammography units hosted by Rio do Oeste: 0 mamografos.
+
+Number of mammography units hosted by Rio dos Cedros: 0 mamografos.
+
+Number of mammography units hosted by Rio do Sul: 1 mamografos.
+
+Cities covered by Rio do Sul equipment:
+
+Laurentino: 12.0/654
+Lontras: 952.0000000000001/961
+Rio do Sul: 5794.0/5794
+
+Number of mammography units hosted by Rio Fortuna: 0 mamografos.
+
+Number of mammography units hosted by Rio Negrinho: 0 mamografos.
+
+Number of mammography units hosted by Rio Rufino: 0 mamografos.
+
+Number of mammography units hosted by Riqueza: 0 mamografos.
+
+Number of mammography units hosted by Rodeio: 0 mamografos.
+
+Number of mammography units hosted by Romelândia: 0 mamografos.
+
+Number of mammography units hosted by Salete: 0 mamografos.
+
+Number of mammography units hosted by Saltinho: 0 mamografos.
+
+Number of mammography units hosted by Salto Veloso: 0 mamografos.
+
+Number of mammography units hosted by Sangão: 0 mamografos.
+
+Number of mammography units hosted by Santa Cecília: 1 mamografos.
+
+Cities covered by Santa Cecília equipment:
+
+Frei Rogério: 2.0/208
+Santa Cecília: 1096.0/1096
+
+Number of mammography units hosted by Santa Helena: 0 mamografos.
+
+Number of mammography units hosted by Santa Rosa de Lima: 0 mamografos.
+
+Number of mammography units hosted by Santa Rosa do Sul: 0 mamografos.
+
+Number of mammography units hosted by Santa Terezinha: 0 mamografos.
+
+Number of mammography units hosted by Santa Terezinha do Progresso: 0 mamografos.
+
+Number of mammography units hosted by Santiago do Sul: 0 mamografos.
+
+Number of mammography units hosted by Santo Amaro da Imperatriz: 1 mamografos.
+
+Cities covered by Santo Amaro da Imperatriz equipment:
+
+Santo Amaro da Imperatriz: 2267.0/2267
+
+Number of mammography units hosted by São Bernardino: 0 mamografos.
+
+Number of mammography units hosted by São Bento do Sul: 2 mamografos.
+
+Cities covered by São Bento do Sul equipment:
+
+Rio Negrinho: 281.0/3231
+São Bento do Sul: 6764.0/6764
+
+Number of mammography units hosted by São Bonifácio: 0 mamografos.
+
+Number of mammography units hosted by São Carlos: 1 mamografos.
+
+Cities covered by São Carlos equipment:
+
+Caxambu do Sul: 424.0/429
+Guatambú: 572.0/572
+Planalto Alegre: 265.0/267
+São Carlos: 938.0/938
+
+Number of mammography units hosted by São Cristóvão do Sul: 0 mamografos.
+
+Number of mammography units hosted by São Domingos: 0 mamografos.
+
+Number of mammography units hosted by São Francisco do Sul: 2 mamografos.
+
+Cities covered by São Francisco do Sul equipment:
+
+Araquari: 2590.0/2632
+Balneário Barra do Sul: 1553.9999999999998/1601
+Itapoá: 2742.0/2852
+São Francisco do Sul: 4838.0/4838
+
+Number of mammography units hosted by São João do Oeste: 1 mamografos.
+
+Cities covered by São João do Oeste equipment:
+
+Itapiranga: 1335.9999999999998/1344
+São João do Oeste: 582.0/582
+
+Number of mammography units hosted by São João Batista: 1 mamografos.
+
+Cities covered by São João Batista equipment:
+
+Governador Celso Ramos: 732.0/1533
+São João Batista: 2368.0/2368
+
+Number of mammography units hosted by São João do Itaperiú: 0 mamografos.
+
+Number of mammography units hosted by São João do Sul: 0 mamografos.
+
+Number of mammography units hosted by São Joaquim: 1 mamografos.
+
+Cities covered by São Joaquim equipment:
+
+Bom Jardim da Serra: 343.0/350
+Painel: 197.0/197
+São Joaquim: 2128.0/2128
+
+Number of mammography units hosted by São José: 4 mamografos.
+
+Cities covered by São José equipment:
+
+Antônio Carlos: 819.0000000000001/844
+Florianópolis: 2675.0/46146
+Paulo Lopes: 761.0/770
+São José: 22365.0/22365
+São Pedro de Alcântara: 411.0/419
+
+Number of mammography units hosted by São José do Cedro: 1 mamografos.
+
+Cities covered by São José do Cedro equipment:
+
+Princesa: 222.0/226
+São José do Cedro: 1257.0/1257
+
+Number of mammography units hosted by São José do Cerrito: 0 mamografos.
+
+Number of mammography units hosted by São Lourenço do Oeste: 1 mamografos.
+
+Cities covered by São Lourenço do Oeste equipment:
+
+Campo Erê: 698.0/722
+Coronel Martins: 189.0/192
+Formosa do Sul: 233.0/233
+São Bernardino: 225.0/229
+São Lourenço do Oeste: 2005.0/2005
+
+Number of mammography units hosted by São Ludgero: 0 mamografos.
+
+Number of mammography units hosted by São Martinho: 1 mamografos.
+
+Cities covered by São Martinho equipment:
+
+Grão-Pará: 509.0/516
+Gravatal: 1077.0/1099
+Pescaria Brava: 908.0/914
+São Bonifácio: 279.0/279
+São Ludgero: 939.0/954
+São Martinho: 291.0/291
+
+Number of mammography units hosted by São Miguel da Boa Vista: 0 mamografos.
+
+Number of mammography units hosted by São Miguel do Oeste: 0 mamografos.
+
+Number of mammography units hosted by São Pedro de Alcântara: 0 mamografos.
+
+Number of mammography units hosted by Saudades: 1 mamografos.
+
+Cities covered by Saudades equipment:
+
+Águas de Chapecó: 529.0/539
+Águas Frias: 235.99999999999997/238
+Cunhataí: 188.0/189
+Santa Terezinha do Progresso: 229.0/233
+Saudades: 856.0/856
+
+Number of mammography units hosted by Schroeder: 0 mamografos.
+
+Number of mammography units hosted by Seara: 1 mamografos.
+
+Cities covered by Seara equipment:
+
+Arvoredo: 211.0/212
+Itá: 553.0/621
+Paial: 167.0/167
+Seara: 1478.0/1478
+
+Number of mammography units hosted by Serra Alta: 0 mamografos.
+
+Number of mammography units hosted by Siderópolis: 0 mamografos.
+
+Number of mammography units hosted by Sombrio: 1 mamografos.
+
+Cities covered by Sombrio equipment:
+
+Balneário Gaivota: 1567.0/1577
+Santa Rosa do Sul: 808.0/808
+São João do Sul: 693.9999999999999/713
+Sombrio: 2431.0/2431
+
+Number of mammography units hosted by Sul Brasil: 0 mamografos.
+
+Number of mammography units hosted by Taió: 1 mamografos.
+
+Cities covered by Taió equipment:
+
+Taió: 1496.0/1496
+
+Number of mammography units hosted by Tangará: 1 mamografos.
+
+Cities covered by Tangará equipment:
+
+Iomerê: 258.0/263
+Tangará: 682.0/682
+
+Number of mammography units hosted by Tigrinhos: 0 mamografos.
+
+Number of mammography units hosted by Tijucas: 1 mamografos.
+
+Cities covered by Tijucas equipment:
+
+Canelinha: 930.0/974
+Governador Celso Ramos: 3.0/1533
+Guabiruba: 1712.0/1867
+Tijucas: 3583.0/3583
+
+Number of mammography units hosted by Timbé do Sul: 0 mamografos.
+
+Number of mammography units hosted by Timbó: 2 mamografos.
+
+Cities covered by Timbó equipment:
+
+Benedito Novo: 845.9999999999999/881
+Indaial: 1361.0/5282
+Rio dos Cedros: 903.0/903
+Rodeio: 1109.0/1116
+Timbó: 3845.0/3845
+
+Number of mammography units hosted by Timbó Grande: 0 mamografos.
+
+Number of mammography units hosted by Três Barras: 1 mamografos.
+
+Cities covered by Três Barras equipment:
+
+Três Barras: 1398.0/1398
+
+Number of mammography units hosted by Treviso: 0 mamografos.
+
+Number of mammography units hosted by Treze de Maio: 0 mamografos.
+
+Number of mammography units hosted by Treze Tílias: 0 mamografos.
+
+Number of mammography units hosted by Trombudo Central: 1 mamografos.
+
+Cities covered by Trombudo Central equipment:
+
+Agronômica: 465.99999999999994/474
+Braço do Trombudo: 328.0/334
+Laurentino: 624.0/654
+Trombudo Central: 628.0/628
+
+Number of mammography units hosted by Tubarão: 3 mamografos.
+
+Cities covered by Tubarão equipment:
+
+Capivari de Baixo: 1880.9999999999998/2089
+Içara: 4743.0/4835
+Imbituba: 3553.0/4683
+Tubarão: 9768.0/9768
+
+Number of mammography units hosted by Tunápolis: 0 mamografos.
+
+Number of mammography units hosted by Turvo: 1 mamografos.
+
+Cities covered by Turvo equipment:
+
+Balneário Arroio do Silva: 1566.9999999999998/1618
+Ermo: 2.0/195
+Morro Grande: 266.0/268
+Timbé do Sul: 459.0/465
+Turvo: 1111.0/1111
+
+Number of mammography units hosted by União do Oeste: 0 mamografos.
+
+Number of mammography units hosted by Urubici: 1 mamografos.
+
+Cities covered by Urubici equipment:
+
+Rio Rufino: 188.0/192
+Urubici: 904.0/904
+Urupema: 222.0/226
+
+Number of mammography units hosted by Urupema: 0 mamografos.
+
+Number of mammography units hosted by Urussanga: 1 mamografos.
+
+Cities covered by Urussanga equipment:
+
+Cocal do Sul: 1543.0/1543
+Sangão: 802.9999999999999/839
+Siderópolis: 1243.0/1243
+Urussanga: 1976.0/1976
+Balneário Rincão: 3.0/1500
+
+Number of mammography units hosted by Vargeão: 0 mamografos.
+
+Number of mammography units hosted by Vargem: 0 mamografos.
+
+Number of mammography units hosted by Vargem Bonita: 0 mamografos.
+
+Number of mammography units hosted by Vidal Ramos: 0 mamografos.
+
+Number of mammography units hosted by Videira: 1 mamografos.
+
+Cities covered by Videira equipment:
+
+Videira: 4274.0/4274
+
+Number of mammography units hosted by Vitor Meireles: 0 mamografos.
+
+Number of mammography units hosted by Witmarsum: 1 mamografos.
+
+Cities covered by Witmarsum equipment:
+
+Dona Emma: 312.0/317
+Santa Terezinha: 626.0/636
+Vitor Meireles: 414.0/428
+Witmarsum: 323.0/323
+
+Number of mammography units hosted by Xanxerê: 0 mamografos.
+
+Number of mammography units hosted by Xavantina: 0 mamografos.
+
+Number of mammography units hosted by Xaxim: 35 mamografos.
+
+Cities covered by Xaxim equipment:
+
+Chapecó: 2910.0/17590
+Xanxerê: 4080.0000000000005/4105
+Xaxim: 2505.0/2505
+
+Number of mammography units hosted by Zortéa: 0 mamografos.
+
+Number of mammography units hosted by Balneário Rincão: 0 mamografos.
+
+
+Demand coverage: 
+
+City Abdon Batista: 99.19028340080972%
+City Abelardo Luz: 100.0%
+City Agrolândia: 100.0%
+City Agronômica: 98.52320675105484%
+City Água Doce: 100.0%
+City Águas de Chapecó: 98.14471243042672%
+City Águas Frias: 99.15966386554621%
+City Águas Mornas: 98.29642248722317%
+City Alfredo Wagner: 100.0%
+City Alto Bela Vista: 99.4535519125683%
+City Anchieta: 99.4413407821229%
+City Angelina: 100.0%
+City Anita Garibaldi: 100.0%
+City Anitápolis: 98.47560975609755%
+City Antônio Carlos: 97.03791469194314%
+City Apiúna: 97.89864029666255%
+City Arabutã: 98.6737400530504%
+City Araquari: 98.40425531914893%
+City Araranguá: 100.0%
+City Armazém: 100.0%
+City Arroio Trinta: 100.0%
+City Arvoredo: 99.52830188679245%
+City Ascurra: 98.58356940509914%
+City Atalanta: 100.0%
+City Aurora: 100.0%
+City Balneário Arroio do Silva: 97.77503090234858%
+City Balneário Camboriú: 100.0%
+City Balneário Barra do Sul: 97.12679575265459%
+City Balneário Gaivota: 99.36588459099556%
+City Bandeirante: 98.55072463768117%
+City Barra Bonita: 99.33333333333334%
+City Barra Velha: 99.39425862523045%
+City Bela Vista do Toldo: 100.0%
+City Belmonte: 99.54128440366972%
+City Benedito Novo: 96.0272417707151%
+City Biguaçu: 100.0%
+City Blumenau: 90.86030521549556%
+City Bocaina do Sul: 98.34983498349835%
+City Bombinhas: 100.0%
+City Bom Jardim da Serra: 98.0%
+City Bom Jesus: 99.10313901345292%
+City Bom Jesus do Oeste: 98.9637305699482%
+City Bom Retiro: 98.17629179331307%
+City Botuverá: 99.3103448275862%
+City Braço do Norte: 100.0%
+City Braço do Trombudo: 98.20359281437126%
+City Brunópolis: 100.0%
+City Brusque: 88.45829823083405%
+City Caçador: 100.0%
+City Caibi: 97.73123909249564%
+City Calmon: 78.47533632286995%
+City Camboriú: 100.0%
+City Capão Alto: 98.35390946502058%
+City Campo Alegre: 100.0%
+City Campo Belo do Sul: 100.0%
+City Campo Erê: 96.67590027700831%
+City Campos Novos: 100.0%
+City Canelinha: 96.40657084188912%
+City Canoinhas: 100.0%
+City Capinzal: 100.0%
+City Capivari de Baixo: 90.0430828147439%
+City Catanduvas: 96.4329643296433%
+City Caxambu do Sul: 98.83449883449883%
+City Celso Ramos: 98.0392156862745%
+City Cerro Negro: 98.17518248175182%
+City Chapadão do Lageado: 100.0%
+City Chapecó: 93.38260375213189%
+City Cocal do Sul: 100.0%
+City Concórdia: 100.0%
+City Cordilheira Alta: 100.0%
+City Coronel Freitas: 100.0%
+City Coronel Martins: 98.4375%
+City Corupá: 94.65899753492192%
+City Correia Pinto: 100.0%
+City Criciúma: 100.0%
+City Cunha Porã: 100.0%
+City Cunhataí: 99.47089947089947%
+City Curitibanos: 100.0%
+City Descanso: 100.0%
+City Dionísio Cerqueira: 100.0%
+City Dona Emma: 98.42271293375394%
+City Doutor Pedrinho: 98.22485207100591%
+City Entre Rios: 98.26839826839827%
+City Ermo: 98.97435897435896%
+City Erval Velho: 98.11764705882352%
+City Faxinal dos Guedes: 100.0%
+City Flor do Sertão: 100.0%
+City Florianópolis: 93.66575651194036%
+City Formosa do Sul: 100.0%
+City Forquilhinha: 100.0%
+City Fraiburgo: 100.0%
+City Frei Rogério: 99.03846153846155%
+City Galvão: 99.33110367892976%
+City Garopaba: 95.50518632347293%
+City Garuva: 100.0%
+City Gaspar: 100.0%
+City Governador Celso Ramos: 99.60861056751466%
+City Grão-Pará: 98.64341085271317%
+City Gravatal: 97.99818016378526%
+City Guabiruba: 94.80449919657204%
+City Guaraciaba: 100.0%
+City Guaramirim: 100.0%
+City Guarujá do Sul: 98.30148619957538%
+City Guatambú: 100.0%
+City Herval d'Oeste: 97.20021130480718%
+City Ibiam: 99.43820224719101%
+City Ibicaré: 100.0%
+City Ibirama: 98.30618892508144%
+City Içara: 98.09720785935883%
+City Ilhota: 98.3948635634029%
+City Imaruí: 100.0%
+City Imbituba: 92.86781977364937%
+City Imbuia: 100.0%
+City Indaial: 99.07232109049602%
+City Iomerê: 98.47908745247148%
+City Ipira: 100.0%
+City Iporã do Oeste: 100.0%
+City Ipuaçu: 98.54469854469853%
+City Ipumirim: 100.0%
+City Iraceminha: 99.18478260869566%
+City Irani: 100.0%
+City Irati: 98.9637305699482%
+City Irineópolis: 100.0%
+City Itá: 89.04991948470209%
+City Itaiópolis: 99.37539038101187%
+City Itajaí: 99.38536533672443%
+City Itapema: 100.0%
+City Itapiranga: 99.4047619047619%
+City Itapoá: 96.14305750350631%
+City Ituporanga: 100.0%
+City Jaborá: 100.0%
+City Jacinto Machado: 100.0%
+City Jaguaruna: 100.0%
+City Jaraguá do Sul: 100.0%
+City Jardinópolis: 98.20359281437126%
+City Joaçaba: 100.0%
+City Joinville: 100.0%
+City José Boiteux: 100.0%
+City Jupiá: 99.06103286384976%
+City Lacerdópolis: 99.05213270142181%
+City Lages: 87.76729786161712%
+City Laguna: 93.9898624185373%
+City Lajeado Grande: 100.0%
+City Laurentino: 97.24770642201835%
+City Lauro Müller: 100.0%
+City Lebon Régis: 100.0%
+City Leoberto Leal: 100.0%
+City Lindóia do Sul: 98.54368932038834%
+City Lontras: 99.06347554630595%
+City Luiz Alves: 100.0%
+City Luzerna: 100.0%
+City Macieira: 100.0%
+City Mafra: 90.97356544165055%
+City Major Gercino: 98.2078853046595%
+City Major Vieira: 100.0%
+City Maracajá: 100.0%
+City Maravilha: 96.60714285714286%
+City Marema: 94.6341463414634%
+City Massaranduba: 100.0%
+City Matos Costa: 97.23502304147466%
+City Meleiro: 100.0%
+City Mirim Doce: 98.52941176470587%
+City Modelo: 100.0%
+City Mondaí: 100.0%
+City Monte Carlo: 97.35202492211837%
+City Monte Castelo: 98.82747068676717%
+City Morro da Fumaça: 100.0%
+City Morro Grande: 99.25373134328358%
+City Navegantes: 100.0%
+City Nova Erechim: 100.0%
+City Nova Itaberaba: 98.49624060150374%
+City Nova Trento: 100.0%
+City Nova Veneza: 100.0%
+City Novo Horizonte: 97.99196787148593%
+City Orleans: 97.12701612903226%
+City Otacílio Costa: 100.0%
+City Ouro: 100.0%
+City Ouro Verde: 100.0%
+City Paial: 100.0%
+City Painel: 100.0%
+City Palhoça: 100.0%
+City Palma Sola: 100.0%
+City Palmeira: 100.0%
+City Palmitos: 100.0%
+City Papanduva: 100.0%
+City Paraíso: 98.36065573770492%
+City Passo de Torres: 90.22624434389141%
+City Passos Maia: 98.41772151898735%
+City Paulo Lopes: 98.83116883116884%
+City Pedras Grandes: 98.5576923076923%
+City Penha: 100.0%
+City Peritiba: 100.0%
+City Pescaria Brava: 99.34354485776805%
+City Petrolândia: 100.0%
+City Balneário Piçarras: 100.0%
+City Pinhalzinho: 97.75840597758406%
+City Pinheiro Preto: 100.0%
+City Piratuba: 98.79275653923543%
+City Planalto Alegre: 99.25093632958801%
+City Pomerode: 100.0%
+City Ponte Alta: 100.0%
+City Ponte Alta do Norte: 98.27586206896551%
+City Ponte Serrada: 100.0%
+City Porto Belo: 100.0%
+City Porto União: 100.0%
+City Pouso Redondo: 100.0%
+City Praia Grande: 100.0%
+City Presidente Castello Branco: 98.14814814814814%
+City Presidente Getúlio: 100.0%
+City Presidente Nereu: 98.12206572769954%
+City Princesa: 98.23008849557522%
+City Quilombo: 100.0%
+City Rancho Queimado: 98.9795918367347%
+City Rio das Antas: 98.60557768924303%
+City Rio do Campo: 100.0%
+City Rio do Oeste: 98.4375%
+City Rio dos Cedros: 100.0%
+City Rio do Sul: 100.0%
+City Rio Fortuna: 98.5576923076923%
+City Rio Negrinho: 82.48220365212009%
+City Rio Rufino: 97.91666666666666%
+City Riqueza: 99.26650366748166%
+City Rodeio: 99.37275985663082%
+City Romelândia: 100.0%
+City Salete: 98.72611464968153%
+City Saltinho: 98.34983498349835%
+City Salto Veloso: 98.90710382513662%
+City Sangão: 95.70917759237186%
+City Santa Cecília: 100.0%
+City Santa Helena: 99.13793103448276%
+City Santa Rosa de Lima: 96.27659574468085%
+City Santa Rosa do Sul: 100.0%
+City Santa Terezinha: 98.42767295597484%
+City Santa Terezinha do Progresso: 99.14163090128754%
+City Santiago do Sul: 98.63013698630137%
+City Santo Amaro da Imperatriz: 100.0%
+City São Bernardino: 98.2532751091703%
+City São Bento do Sul: 100.0%
+City São Bonifácio: 100.0%
+City São Carlos: 100.0%
+City São Cristóvão do Sul: 99.32432432432434%
+City São Domingos: 98.56115107913669%
+City São Francisco do Sul: 100.0%
+City São João do Oeste: 100.0%
+City São João Batista: 100.0%
+City São João do Itaperiú: 99.09909909909909%
+City São João do Sul: 97.33520336605889%
+City São Joaquim: 100.0%
+City São José: 100.0%
+City São José do Cedro: 100.0%
+City São José do Cerrito: 98.40490797546013%
+City São Lourenço do Oeste: 100.0%
+City São Ludgero: 98.42767295597484%
+City São Martinho: 100.0%
+City São Miguel da Boa Vista: 98.26589595375722%
+City São Miguel do Oeste: 100.0%
+City São Pedro de Alcântara: 98.56801909307876%
+City Saudades: 100.0%
+City Schroeder: 100.0%
+City Seara: 100.0%
+City Serra Alta: 100.0%
+City Siderópolis: 100.0%
+City Sombrio: 100.0%
+City Sul Brasil: 98.35390946502058%
+City Taió: 100.0%
+City Tangará: 100.0%
+City Tigrinhos: 98.42105263157895%
+City Tijucas: 100.0%
+City Timbé do Sul: 98.70967741935483%
+City Timbó: 100.0%
+City Timbó Grande: 98.06866952789699%
+City Três Barras: 100.0%
+City Treviso: 100.0%
+City Treze de Maio: 98.71794871794872%
+City Treze Tílias: 100.0%
+City Trombudo Central: 100.0%
+City Tubarão: 100.0%
+City Tunápolis: 98.60465116279069%
+City Turvo: 100.0%
+City União do Oeste: 99.2156862745098%
+City Urubici: 100.0%
+City Urupema: 98.23008849557522%
+City Urussanga: 100.0%
+City Vargeão: 98.98648648648648%
+City Vargem: 98.64864864864865%
+City Vargem Bonita: 99.13544668587896%
+City Vidal Ramos: 98.79759519038075%
+City Videira: 100.0%
+City Vitor Meireles: 96.72897196261681%
+City Witmarsum: 100.0%
+City Xanxerê: 99.41534713763703%
+City Xavantina: 98.32402234636872%
+City Xaxim: 100.0%
+City Zortéa: 97.9020979020979%
+City Balneário Rincão: 99.6%

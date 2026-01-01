@@ -1,0 +1,90 @@
+
+Gurobi 11.0.3 (linux64, Java) logging started sáb 20 dez 2025 19:55:03 -03
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2566693
+Academic license 2566693 - for non-commercial use only - registered to ja___@ufv.br
+Set parameter NonConvex to value 2
+Set parameter TimeLimit to value 3600
+Set parameter LogToConsole to value 0
+Set parameter MIPGap to value 2.8398712201892718e-08
+Set parameter Threads to value 1
+Set parameter NodefileDir to value "/home/ps12398/gp-momulap/goalProgrammingMarcos/"
+Set parameter NodefileStart to value 0.1
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz, instruction set [SSE2]
+Thread count: 12 physical cores, 24 logical processors, using up to 1 threads
+
+Academic license 2566693 - for non-commercial use only - registered to ja___@ufv.br
+Optimize a model with 257348 rows, 174944 columns and 1943134 nonzeros
+Model fingerprint: 0x2e23dc29
+Model has 300 quadratic constraints
+Variable types: 87326 continuous, 87618 integer (295 binary)
+Coefficient statistics:
+  Matrix range     [3e-03, 3e+06]
+  QMatrix range    [3e-03, 5e+04]
+  QLMatrix range   [1e+00, 5e+04]
+  Objective range  [1e+00, 7e+07]
+  Bounds range     [1e+00, 1e+08]
+  RHS range        [1e+00, 2e+06]
+  QRHS range       [8e-02, 8e-02]
+Presolve removed 253880 rows and 171206 columns
+Presolve time: 0.92s
+Presolved: 5482 rows, 4355 columns, 777638 nonzeros
+Presolved model has 2 SOS constraint(s)
+Presolved model has 295 bilinear constraint(s)
+
+Solving non-convex MIQCP
+
+Variable types: 1051 continuous, 3304 integer (297 binary)
+Found heuristic solution: objective 2.451504e+07
+
+Root relaxation: objective 0.000000e+00, 392 iterations, 0.17 seconds (0.09 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0  411 2.4515e+07    0.00000   100%     -    5s
+H    0     0                    2.426011e+07    0.00000   100%     -    5s
+     0     0    0.00000    0  561 2.4260e+07    0.00000   100%     -    6s
+H    0     0                    8905535.5209    0.00000   100%     -    6s
+     0     0    0.00000    0  426 8905535.52    0.00000   100%     -    7s
+     0     0    0.00000    0  353 8905535.52    0.00000   100%     -   11s
+H    0     0                    6039338.6173    0.00000   100%     -   11s
+     0     0    0.00000    0  363 6039338.62    0.00000   100%     -   11s
+     0     0    0.00000    0  371 6039338.62    0.00000   100%     -   13s
+     0     0    0.00000    0  373 6039338.62    0.00000   100%     -   13s
+     0     0    0.00000    0  368 6039338.62    0.00000   100%     -   15s
+     0     0    0.00000    0  365 6039338.62    0.00000   100%     -   16s
+     0     0    0.00000    0  362 6039338.62    0.00000   100%     -   17s
+     0     0    0.00000    0  362 6039338.62    0.00000   100%     -   17s
+     0     0    0.00000    0  361 6039338.62    0.00000   100%     -   18s
+     0     0    0.00000    0  361 6039338.62    0.00000   100%     -   23s
+H    0     0                      83.5794147    0.00000   100%     -   32s
+     0     2    0.00000    0  361   83.57941    0.00000   100%     -   34s
+    14    15    0.00000   12  340   83.57941    0.00000   100%  11.4   35s
+H   78    77                      83.5794143    0.00000   100%   5.3   39s
+    90    91    0.00000   75  305   83.57941    0.00000   100%   5.2   40s
+H  104   103                      83.5794068    0.00000   100%   4.9   41s
+   138   139    0.00000  123  295   83.57941    0.00000   100%   4.0   83s
+   152   151    0.00000  131  295   83.57941    0.00000   100%   9.1   85s
+H  216     5                       0.0000000    0.00000  0.00%   6.9   91s
+
+Cutting planes:
+  Gomory: 13
+  Implied bound: 2
+  MIR: 119
+  StrongCG: 13
+  Zero half: 3
+  RLT: 1
+  Relax-and-lift: 1
+
+Explored 217 nodes (5797 simplex iterations) in 91.89 seconds (42.88 work units)
+Thread count was 1 (of 24 available processors)
+
+Solution count 6: 0 83.5794 6.03934e+06 ... 2.4515e+07
+
+Optimal solution found (tolerance 2.84e-08)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%

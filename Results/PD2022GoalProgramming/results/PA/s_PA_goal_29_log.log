@@ -1,0 +1,87 @@
+
+Gurobi 11.0.3 (linux64, Java) logging started qua 17 dez 2025 15:13:42 -03
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2566693
+Academic license 2566693 - for non-commercial use only - registered to ja___@ufv.br
+Set parameter NonConvex to value 2
+Set parameter TimeLimit to value 3600
+Set parameter LogToConsole to value 0
+Set parameter MIPGap to value 4.7478399160473358e-08
+Set parameter Threads to value 2
+Set parameter NodefileDir to value "/home/ps12398/gp-momulap/goalProgrammingMarcos/"
+Set parameter NodefileStart to value 1
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz, instruction set [SSE2]
+Thread count: 12 physical cores, 24 logical processors, using up to 2 threads
+
+Academic license 2566693 - for non-commercial use only - registered to ja___@ufv.br
+Optimize a model with 62101 rows, 41913 columns and 208058 nonzeros
+Model fingerprint: 0xe0af1c8c
+Model has 149 quadratic constraints
+Variable types: 20886 continuous, 21027 integer (144 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 6e+06]
+  QMatrix range    [7e-03, 1e+05]
+  QLMatrix range   [1e+00, 1e+05]
+  Objective range  [1e+00, 4e+07]
+  Bounds range     [1e+00, 1e+08]
+  RHS range        [1e+00, 2e+06]
+  QRHS range       [2e-01, 2e-01]
+Presolve removed 61160 rows and 40894 columns
+Presolve time: 0.25s
+Presolved: 2243 rows, 1411 columns, 69462 nonzeros
+Presolved model has 2 SOS constraint(s)
+Presolved model has 144 bilinear constraint(s)
+
+Solving non-convex MIQCP
+
+Variable types: 561 continuous, 850 integer (146 binary)
+Found heuristic solution: objective 1.963334e+07
+
+Root relaxation: objective 0.000000e+00, 615 iterations, 0.02 seconds (0.01 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0  226 1.9633e+07    0.00000   100%     -    1s
+H    0     0                    1.946238e+07    0.00000   100%     -    1s
+     0     0    0.00000    0  229 1.9462e+07    0.00000   100%     -    1s
+     0     0 43113.7342    0  219 1.9462e+07 43113.7342   100%     -    1s
+     0     0 239145.759    0  259 1.9462e+07 239145.759  98.8%     -    1s
+     0     0 340240.230    0  252 1.9462e+07 340240.230  98.3%     -    1s
+     0     0 388000.764    0  225 1.9462e+07 388000.764  98.0%     -    1s
+     0     0 394136.614    0  225 1.9462e+07 394136.614  98.0%     -    1s
+     0     0 394136.614    0  228 1.9462e+07 394136.614  98.0%     -    1s
+H    0     0                    1.816156e+07 395763.753  97.8%     -    1s
+     0     0 395763.753    0  238 1.8162e+07 395763.753  97.8%     -    1s
+     0     0 395763.753    0  228 1.8162e+07 395763.753  97.8%     -    1s
+     0     0 397837.681    0  228 1.8162e+07 397837.681  97.8%     -    2s
+     0     2 397837.681    0  228 1.8162e+07 397837.681  97.8%     -    2s
+H   29    32                    1002323.8836 398895.730  60.2%   9.9    2s
+H   55    55                    492008.82519 398895.730  18.9%  13.1    4s
+   136    98     cutoff   45      492008.825 398895.730  18.9%   9.6    5s
+H  224   124                    459548.12757 398895.730  13.2%   9.5    5s
+H  993   136                    443948.78256 404544.508  8.88%   6.7    8s
+  1388   119 443925.291   42  141 443948.783 433977.402  2.25%   7.2   10s
+H 1611   145                    443941.37007 433977.402  2.24%   6.6   10s
+H 1665   145                    443925.09593 433977.402  2.24%   6.5   10s
+
+Cutting planes:
+  Gomory: 10
+  Implied bound: 13
+  MIR: 121
+  StrongCG: 5
+  Flow cover: 1
+  RLT: 4
+  Relax-and-lift: 3
+
+Explored 1823 nodes (12488 simplex iterations) in 10.59 seconds (2.53 work units)
+Thread count was 2 (of 24 available processors)
+
+Solution count 9: 443925 443941 443949 ... 1.96333e+07
+
+Optimal solution found (tolerance 4.75e-08)
+Best objective 4.439250959282e+05, best bound 4.439250959282e+05, gap 0.0000%
